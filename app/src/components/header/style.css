@@ -1,0 +1,49 @@
+.header {
+  background-color: var(--color-main);
+  height: 170px;
+  padding-top: 20px;
+}
+
+.header__elements{
+  height: 100%;
+  width: 60%;
+  margin: auto;
+}
+
+.header__logos {
+  height: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: var(--text-white);
+  font-size: 24px;
+}
+
+.header__form {
+  height: 65%;
+  display: flex;
+  align-items: center;
+}
+
+.header__form input{
+  width: 99.6%;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 5px;
+  border: none;
+  color: var(--text-white);
+  font-size: 18px;
+}
+
+.header__form input::placeholder { /* Microsoft Edge */
+  color: #ffffff;
+  opacity: 0.5;
+ }
+
+@media (max-width: 660px){
+  
+  .header__elements{
+    width: 90%;
+  }
+
+}
