@@ -1,0 +1,10 @@
+.bodyBlog{
+  width: 60%;
+  margin: auto;
+}
+
+@media (max-width: 660px){
+  .bodyBlog{
+    width: 90%;
+  }
+}
