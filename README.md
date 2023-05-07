@@ -1,3 +1,6 @@
 <h1>
-  Projeto Codelandia: - Página web Blog
+  Projeto Codelandia 01: - Página web Blog
 </h1>
+<p>
+  Projeto realizado com Vite + React.js com intuiuto de práticar o uso destas tecnologia e uso do BEM no CSS.
+</p>
