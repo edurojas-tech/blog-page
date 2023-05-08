@@ -3,5 +3,5 @@
 </h1>
 <p>
   Projeto realizado com Vite + React.js com intuiuto de práticar o uso destas tecnologia e uso do BEM no CSS. <br>
-  Design: Iuri da comunidade do Codelandia.
+  Design: Iuri da comunidade do Codelândia.
 </p>
